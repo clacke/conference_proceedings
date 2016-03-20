@@ -15,7 +15,7 @@ OK: NOT AVAILABLE YET - WILL BE FIXED ASAP (4134.txt) - 'Running the Processing 
 OK: NOT AVAILABLE YET - WILL BE FIXED ASAP (4319.txt) - 'How to support Tizen on your connected devices using the Yocto project'
 OK: NOT AVAILABLE YET - WILL BE FIXED ASAP (4328.txt) - 'Hacking on the Fairphone 2'
 OK: NOT AVAILABLE YET - WILL BE FIXED ASAP (4399.txt) - 'Writing secure HTML5 applications for automotive systems'
+OK: 'Turris Omnia - Opensource SOHO router'
 PARTIAL: NOT AVAILABLE YET - WILL BE FIXED ASAP (4392.txt) - 'Yocto and IoT - a retrospective'
 PARTIAL: NOT AVAILABLE YET - WILL BE FIXED ASAP (4393.txt) - (no slides) 'GNU/Linux for Safety Related Systems'
 PARTIAL: 'open source FPGA toolchain and hardware'
-UNKNOWN: 'Turris Omnia - Opensource SOHO router'

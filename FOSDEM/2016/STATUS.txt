@@ -1,15 +1,15 @@
 Videos are being assessed and processed at the moment.
 They are added here as they become ready.
 
-Total number of videos currently available:      403 / 494
+Total number of videos currently available:      422 / 494
 Number of videos that will be unavailable:       116
-Number of videos that are incomplete:             47
-Number of videos still to be reviewed:            36
+Number of videos that are incomplete:             48
+Number of videos still to be reviewed:            35
 
 Room    	Avail	Lost	Partial	Unknown	#Talks
 ------------------------------------------------------
 aw1120   	 19 	 3 	 0 	 8 	 31
-aw1121   	 14 	 4 	 1 	 0 	 29
+aw1121   	 24 	 4 	 1 	 0 	 29
 aw1124   	 8 	 9 	 3 	 1 	 24
 aw1125   	 26 	 2 	 3 	 2 	 30
 aw1126   	 27 	 1 	 0 	 1 	 29
@@ -17,8 +17,8 @@ h1301   	 6 	 6 	 0 	 10 	 23
 h1302   	 12 	 3 	 0 	 9 	 25
 h1308   	 21 	 3 	 0 	 0 	 24
 h1309   	 17 	 3 	 1 	 1 	 21
-h2213   	 7 	 3 	 1 	 0 	 19
-h2214   	 31 	 1 	 4 	 0 	 31
+h2213   	 15 	 3 	 1 	 0 	 19
+h2214   	 31 	 1 	 5 	 0 	 31
 h2215   	 26 	 11 	 2 	 0 	 38
 janson   	 19 	 0 	 0 	 0 	 19
 k1105   	 13 	 1 	 1 	 0 	 14
@@ -30,7 +30,7 @@ k4601   	 12 	 8 	 1 	 0 	 18
 ua2114   	 26 	 3 	 0 	 0 	 29
 ua2220   	 12 	 3 	 1 	 0 	 16
 ub2252a   	 8 	 3 	 1 	 0 	 21
-ud2120   	 8 	 3 	 3 	 1 	 21
+ud2120   	 9 	 3 	 3 	 0 	 21
 ud2218a   	 20 	 6 	 20 	 1 	 28
 
 Size    Year
@@ -47,9 +47,9 @@ Size    Year
  39G	2013
 107G	2014
  53G	2015
- 47G	2016
-386G	total
+ 49G	2016
+388G	total
 
 
-Generated at Sun Mar 13 14:09:16 CET 2016
+Generated at Sun Mar 20 03:54:56 CET 2016
 
